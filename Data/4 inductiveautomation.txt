@@ -1,0 +1,295 @@
+
+                                    International Distributors
+                                
+
+                                Affordable SCADA solutions available, call us for details   |  
+                                
+    +1 916 456 1045
+
+
+                                Affordable SCADA solutions available, call us for details
++1 916 456 1045
+
+Screens courtesy of Tamaki Control 
+
+                            Ignition SCADA by Inductive Automation® combines an
+                            unlimited licensing model,
+                            with instant web-based deployment, and the industry-leading toolset for supervisory control and
+                            data acquisition (SCADA) — all on one open and scalable universal platform.
+                            Ignition is The New SCADA because it solves all the major
+                            
+                            pain points of old SCADA
+                            . Ignition empowers your business to easily control your processes, and track, display, and analyze all your data, without limits.
+                        
+See why Ignition is The New SCADA
+Unlimited tags, clients, screens, and connections
+Web-launch clients to any device with a web-browser
+SCADA, alarming, reporting, and more — on one platform
+Comes with a powerful, unlimited, zero-install IDE — for free
+SQL, Python, MQTT and OPC UA
+The industry’s best tech support and training
+– Dennis Pickle
+St. Lucie West Services District
+Water districts all over the country trust Ignition with their mission-critical SCADA systems.
+
+                            Ignition SCADA software comes standard with a comprehensive set of data acquisition tools which includes built-in
+                            OPC UA to connect to practically any PLC, and the
+                            ability to seamlessly connect to any SQL database. Ignition can also turn any SQL database into a high-performance
+                           industrial historian and connects to IIoT devices through MQTT.
+                        
+
+                            Develop at lightning speed with the Ignition Designer, the
+                            industry’s most powerful integrated development environment (IDE), which gives you all the tools you need, all in one
+                            place. The Ignition Designer is built into the platform, so it’s instantly available, it’s always the
+                            right version, it works on any major OS, and it comes with an unlimited number of concurrent
+                            design clients. Now your whole team can work on your project at the same time, from anywhere,
+                            at no extra cost!
+
+                        
+
+                            Ignition is engineered to streamline data-throughput so you see true real-time tag values.
+                            Ignition’s real-time monitoring gives you the power to quickly see the status of your
+                            facility, on any device.
+                        
+Screens courtesy of Tactical Controls
+Screen courtesy of Tamaki Controls
+
+                            With Ignition, you can easily start and stop processes, monitor multiple data points at multiple locations,
+                            and check the status of the entire plant floor at any given moment. Ignition comes standard with the
+                            Ignition Designer, the industry’s most powerful IDE, so you can effortlessly create optimized
+                            
+                                HMI screens to do whatever you need.
+                        
+Screens courtesy of
+                            Bixby International (middle) and
+                            Kymera Systems (right)
+
+                            Easily create dynamic SCADA dashboards with powerful tools for data analysis. Stay on top of your business
+                            objectives with a full library of customizable charts and tables, to monitor key performance indicators,
+                            see at-a-glance trending, and more.
+                        
+
+                            With Ignition, you can instantly web-launch an unlimited number of zero-install, full runtime clients on
+                            virtually any device from a central server. With architectures for virtually every type of system and an
+                            unlimited licensing model, Ignition can fit any size of implementation and can easily grow with your
+                            company's needs.
+                        
+
+                            Get all the tools you need to build full-fledged, totally mobile-responsive SCADA applications that put the full
+                            overview and control of your plant floor right on your phone, tablet, and desktop – all with one application.
+                        
+
+                            Ignition lets you leverage the power of your mobile device’s intuitive touch inputs,
+                            sensors, cameras, and GPS to create the next generation of SCADA applications. With
+                            Ignition, you can create pure-web SCADA applications that use HTML5 and CSS3 to run
+                            natively on any screen of any size and inside any major web browser.
+                        
+Easily stay aware of what’s happening at your facility, wherever you are.
+Create a full range of dynamic, data-rich reports and send them anywhere.
+Easily log data, call stored procedures, and synchronize data bi-directionally.
+Turn a SQL database into a high-performance time-series tag historian.
+Store-and-forward historical data so you never lose it.
+Get mobile access to your control system via smartphones and tablets.
+Streamline the creation, organization, and visualization of robust logic systems.
+
+                                    Simply drag-and-drop these symbols to bind them to a process. Using a data-driven
+                                    model, these symbols have built-in animations that will automatically change based
+                                    on your data.
+                                
+Choose from thousands of customizable graphics for your project.
+Works on Windows, Linux, macOS, and more.
+
+                                    Ignition features ultra-secure SSL technology and supports modern cyber security
+                                    protocols such as federated identity infrastructure,  multi-factor authentication
+                                    (MFA), and single sign-on (SSO).
+                                
+Comes out of the box with unlimited, concurrent design clients - for free.
+Deliver data to anyone without additional costs.
+Scale from a single client installation to an enterprise-wide system with ease.
+Easily add fault tolerance for mission-critical systems by adding redundant servers.
+
+                                    Install on a server in just 3 minutes, push updates to clients everywhere,
+                                    instantly.
+                                
+
+                                    Quickly configure the Ignition gateway and work with the sample project to get a
+                                    head start in Ignition development.
+                                
+
+                            What is Ignition SCADA and how do I buy it?
+                            
+
+
+                            Ignition SCADA is the fastest, easiest, most versatile SCADA software solution on the planet.
+                            Ignition SCADA is a fully integrated solution that consists of the Ignition platform and powerful
+                            Ignition modules
+                            that add functionality to the platform. A standard Ignition SCADA package consists of these modules:
+                            Vision,
+                            OPC UA (with drivers),
+                            Tag Historian,
+                            Alarm Notification,
+                            Reporting, and
+                            SQL Bridge Modules.
+                            You may need a different set of modules depending on what you’re trying to do, to find what you’ll
+                            need to create your ideal SCADA system, call us at: 1-800-266-7798
+
+
+                            What are Ignition modules and how do they work?
+                            
+
+
+                            Ignition is a unified platform for connecting data, and designing and deploying industrial
+                            applications throughout an enterprise. The development power of Ignition is extensible
+                            through the addition of fully integrated software modules. Each module adds new functions
+                            to the Ignition platform, which enables users to create applications for SCADA, MES, IIoT,
+                            alarming, reporting, and more. Visit our
+                            Modules page to learn more.
+                        
+
+                            How does Ignition’s free trial work?
+                            
+
+
+                            You can download the full version of Ignition for free on our
+                            download page.
+                            Ignition only takes three minutes to install and it comes with all the core
+                            modules.
+                            By default, Ignition will run in trial mode which will timeout after two hours
+                            but you can manually reset it as many times as you wish, which allows you to build and
+                            test a full project in Ignition without buying a license. Once you’re ready, you can
+                            purchase and install your Ignition license key, which will take Ignition out of trial
+                            mode by removing the two-hour timeout. All your previous work will be saved with no
+                            additional installation required.
+
+                        
+
+                            What do you mean by “unlimited licensing”?
+                            
+
+
+                            Ignition is sold by the server, so the affordable cost of one license gives you an unlimited
+                            number of clients, tags, and connections — the only limiting factor for Ignition is the
+                            performance of the hardware you install it on. Visit our
+                            Unlimited Licensing
+                            page to learn more.
+                        
+
+                            Which SQL databases does Ignition support?
+                            
+
+
+                            Ignition supports all of the major SQL databases including Microsoft SQL Server, Oracle, MySQL, MariaDB, PostgreSQL, and IBM DB2.
+                        
+
+                            What kind of devices can Ignition run on?
+                            
+
+
+                            Ignition is cross-platform compatible so it can run on Windows 10 and 11, and Windows Server
+                            2016, 2019, and 2022, as well as Linux and macOS. Ignition can run on any device including
+                            PCs, laptops, servers, tablets, smartphones, remote field devices, and even Raspberry Pi’s.
+                        
+
+                            Is Ignition compatible with other SCADA packages?
+                            
+
+
+                            Yes, Ignition is based on open, non-proprietary, IT-standard technologies. Ignition is fully
+                            interoperable and compatible with other SCADA packages along with other industrial and
+                            enterprise systems. Ignition was designed to work great alongside other systems or on its
+                            own so it’s easy to fit into your existing solutions.
+                        
+
+                            Who uses Ignition?
+                            
+
+
+                            Ignition software is used by thousands of integrators and industrial organizations in more
+                            than 100 countries. It’s used by some of the biggest companies in the world in industries
+                            like oil and gas, water/wastewater, manufacturing, automotive, food processing and more.
+                            Visit our
+                            Customers
+                            page to see some of the companies that trust Ignition every day.
+                        
+
+                            Is there training available to learn how to use Ignition?
+                            
+
+
+                            Yes, we offer live Ignition training classes. To see when the next available class is, visit our
+                            Training
+                            page. We also have hundreds of on-demand training videos available for you to
+                            view whenever you want at:
+                            inductiveuniversity.com
+
+
+                    Get fast answers and friendly advice in a one-on-one, online demonstration of how to use
+                    Ignition to create the ideal SCADA solution for your business.
+                
+
+                    Inductive Automation
+                     |  90 Blue Ravine, Folsom, CA 95630
+                     |  inductiveautomation.com
+ | 
++1 916 456 1045
+
+Some of the companies that depend on Ignition:
+
+                    One platform for SCADA and more?
+                
+
+                    Click to see how Ignition works.
+                
+
+                    One platform for SCADA and more? Click to see how Ignition works.
+                
+Platform
+Solutions
+Partner Solutions
+Other Editions
+Explore
+Software Pricing
+Services
+Library
+Integrators
+Distributors
+Strategic Partner
+Solution Partners
+Alliance Partners
+Education
+Get Help
+Training
+Company
+Communication
+connect with us
+Download the free Ignition trial
+
+Inductive Automation
+•
+90 Blue Ravine, Folsom CA,
+                    95630
+•
+1-800-266-7798 (toll-free)
+•
++1 916 456 1045 (int'l)
+•
+Email Us
+
+
+Privacy Policy
+Your Privacy Choices
+                     
+Cookie Policy
+ADA Notice
+
+License Agreement
+Terms of Use
+
+Refunds
+Sitemap
+Security
+Brand Resources
+
+
+                Copyright Ⓒ 2023. Inductive Automation, LLC.  All rights reserved
+            

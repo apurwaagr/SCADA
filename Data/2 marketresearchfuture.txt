@@ -1,0 +1,324 @@
+ID: MRFR/SEM/1524-CR | 100 Pages | Author: Shubham Munde | February 2020
+            
+  
+              
+  
+                
+            
+
+Global SCADA Market Overview:
+SCADA Market Size was valued at USD 8.8 billion in 2021. The SCADA market industry is projected to grow from USD 9.4 billion in 2022 to USD 15.03 billion by 2030, exhibiting a compound annual growth rate (CAGR) of 7.00% during the forecast period (2022 - 2030). Smart buildings have increased dramatically, which is thought to be a major market driver for the expansion of the market. Growing urbanization in developing economies has caused this. A beneficial effect on the market is also caused by the rising use of smart devices and the expanding number of internet users.Source: Secondary Research, Primary Research, MRFR Database, and Analyst Review
+SCADA Market Trends
+
+
+Increased adoption of Al and IoT in manufacturing industries to propel the market growth
+
+
+Manufacturing operations have changed as a result of the Internet of Things (IoT) and artificial intelligence (AI). Industrial loT is the term for the use of loT in manufacturing industries (loT). By utilising SCADA systems to connect a vast network of intelligent devices, the Internet of Things (IoT) is changing manufacturing facilities. A fully digital plant is created as a result. In order to monitor and control their applications and processes, achieve faster response times, and more accurately predict machine failure, industries can benefit from SCADA systems enabled with loT and Al technologies. This lowers operational costs and boosts productivity. Thus, the combination of loT and Al-based SCADA platforms facilitates data transmission and analysis for streamlined plant operations. Furthermore, because loT technology can detect possible issues and stop them from arising, it also contributes to a reduction in downtime. Additionally, loT speeds up and improves maintenance. With the use of this technology, managers can carefully plan out maintenance and maintain systems operational while all personnel are working. LoT can improve equipment longevity, lessen environmental risks, and promote plant safety. Machine learning (ML), a branch of artificial intelligence (AI), provides powerful tools for performing predictive maintenance. Thus, this factor is driving the market CAGR.
+Furthermore, oil and gas, pharmaceuticals, and water and wastewater treatment are just a few of the industries that use wireless sensor networks (WSN). The majority of oil and gas facilities are situated in harsh environments in distant locations. With the aid of sensors placed in a WSN, a SCADA system in an oil and gas plant monitors, manages, and controls tanks, compressors, generators, and separators. Implementing a sensor network and communication system is more affordable when a WSN is used. Additionally, they assist in resolving the issues with wired industrial networks because of their flexibility and ease of deployment. Due to the extra hardware requirements, such as cables, networking equipment, routers, and network adapters, wired technology is more expensive than its wireless version. As a result, the expanding WSN R&D and active use in SCADA systems would broaden the applications for SCADA. Additionally, the regular software updates for SCADA-adopted wireless sensor networks enable them to be compatible with the current automated systems in many different industries.
+However, massive development in big data and analytics has boosted the effectiveness of SCADA systems, opening up a wide range of industry potential. Analytical software solutions assist businesses in reducing errors, enhancing decision-making, and locating the source of issues. As a result, more sectors have started using these technologies to create decision-making processes. Analytics tools are now being used by automation suppliers in SCADA and advanced process control (APC). Thus, it is anticipated that this aspect will accelerate SCADA market revenue globally.
+SCADA Market Segment Insights:
+SCADA Deployment Insights
+The SCADA Market segmentation, based on deployment is divided into On-Cloud and On-Premise. The on-cloud segment dominated the SCADA market revenue in 2021 and is projected to be the faster-growing segment during the forecast period, 2022-2030 because cloud-based SCADA solutions are becoming more prevalent in industrial settings. Manufacturing and processing facilities are implementing cloud-based SCADA solutions in order to take advantage of the automation and high monitoring & control efficiency that the cloud SCADA provides.
+Figure 2: SCADA Market by Deployment, 2021 & 2030 (USD Billion)
+Source: Secondary Research, Primary Research, MRFR Database and Analyst Review
+SCADA Component Insights
+The SCADA Market segmentation has been segmented by component into Software and Hardware (Remote Terminal Unit 31, Human Machine Interface, Industrial Control Systems, Communication Systems). The software segment dominated the market growth in 2021 and is projected to be the faster-growing segment during the forecast period, 2022-2030. The fundamental purpose of the supervisory control and data acquisition (SCADA) system is data collection. The computer programme known as "software" aids in keeping track of manufacturing and plant operations. 
+SCADA End-Users Insights
+The SCADA Market data has been segmented by end-users into Power and Energy, Telecommunication, Pharmaceutical, Beverage and Food, Manufacturing and Chemical. The beverage and food segment dominated the market in 2021 and is projected to be the faster-growing segment during the forecast period, 2022-2030. The supervisory control and data acquisition (SCADA) system is used in the food and beverage industry for a number of purposes, including visualizing production, upholding quality standards, generating reporting, and packaging. Greater alarming capabilities, increased integration, traceability, and predictive and preventative maintenance reduce product waste while enhancing food safety and quality.
+SCADA Regional Insights
+By region, the study provides the market insights into North America, Europe, Asia-Pacific, and the Rest of the World. The Asia Pacific SCADA market accounted for USD 3.7 billion in 2021 and is expected to exhibit a 42.10% CAGR during the study period to be propelled by the rising exploration of new renewable energy resources in the near future, the quickening development of industrial infrastructure that supports the integration of process automation, the rising demand for process automation in the oil and gas industry, and the improved efficiency in wastewater management. 
+Further, the major countries studied in the market report are: The U.S., Canada, Germany, France, the UK, Italy, Spain, China, Japan, India, Australia, South Korea, and Brazil.
+Figure 3: SCADA Market SHARE BY REGION 2021 (%)
+Source: Secondary Research, Primary Research, MRFR Database and Analyst Review
+North America SCADA market accounts for the fastest growing market share because more industries, including the oil and gas industry and the electrical power industry, are requiring process automation systems. The market is also expected to grow quickly in the near future as a result of the growing financial and technological investments in reliable and sophisticated power management. Moreover, US SCADA market held the largest market share, and the Canada SCADA market was the fastest-growing market in this region
+Europe SCADA market is expected to grow at a substantial CAGR from 2022 to 2030 due to an increase in investments made to create smart grid initiatives. Increased manufacturing activity has also created attractive opportunities for SCADA system deployment. Government-sponsored programmes to assist the development of smart city projects will complement local business trends. Further, the UK SCADA market held the largest market share, and the Germany SCADA market was the fastest-growing market in the region.
+SCADA Key Market Players & Competitive Insights
+Major market players are spending a lot on R&D to increase their product lines, which will help the SCADA industry grow even more. Market participants are also taking various strategic initiatives to grow their worldwide footprint, including new product launches, contractual agreements, mergers and acquisitions, increased investments, market developments and collaboration with other organizations. Competitors in the industry must offer cost-effective items to expand and survive in an increasingly competitive and rising market industry.
+One of the primary business strategies manufacturers adopt in the global SCADA industry to benefit clients and expand the sector is manufacturing locally to reduce operating costs. In recent years, SCADA industry has provided medicine with some of the most significant benefits. The SCADA market major player such as Schneider Electric SE, Mitsubishi Electric Corporation, Omron Corporation, Rockwell Automation, Siemens AG, Checkpoint Software Technologies, Radiflow, General Electric, Yokogawa Electric Corporation, Emerson Electric Corporation and Honeywell Automation.
+European multinational Schneider Electric SE is a leader in digital automation and energy management. Utilizing a combination of energy technologies, real-time automation, software, and services, it addresses homes, buildings, data centers, infrastructure, and industries. In September 2022, to accelerate digital transformation for industrial businesses managing complex operational processes, Schneider Electric announced the full acquisition of AVEVA. The company's hybrid cloud-based subscription model and software growth strategy are both intended to be accelerated by this transaction. 
+Also, an American industrial automation company Rockwell Automation, Inc.'s brands include Allen-Bradley, FactoryTalk software, and LifecycleIQ Services. Rockwell Automation is based in Milwaukee, Wisconsin, and employs about 26,000 people. It serves clients in more than 100 nations. In May 2022, Rockwell Automation announced the release of V13 of FactoryTalk View Site, a new version of the programme with new capabilities. The recently released solution provides more efficient HMI animation driving for automatic diagnostics through FactoryTalk ViewPoints web points, allowing for deeper interaction with logic controller.
+Key companies in the SCADA market includes 
+
+
+Schneider Electric SE
+
+
+Mitsubishi Electric Corporation
+
+
+Omron Corporation
+
+
+Rockwell Automation
+
+
+Siemens AG
+
+
+Checkpoint Software Technologies
+
+
+Radiflow
+
+
+General Electric
+
+
+Yokogawa Electric Corporation
+
+
+Emerson Electric Corporation
+
+
+Honeywell Automation
+
+
+SCADA Industry Developments
+July 2023: Next month, a Supervisory Control and Data Acquisition centre will be established in Chandigarh. Modern control centre will oversee SCADA systems for water supply, public bike sharing, lamps, solid waste management, parking, street sweeping, and sewage treatment, among other crucial services. The integration of these systems into a single SCADA centre gives municipal operators and administrators superior real-time visibility, in-depth situational awareness, and improved control over the city's infrastructure. This all-encompassing strategy aims to make it easier to coordinate effectively amongst departments, enhance maintenance, cut costs, and make better use of resources while also simplifying unified management and monitoring of critical services. The Integrated Command & Control Centre will be integrated with all SCADA systems deployed at the facility.
+June 2023: The Taliperu Project, a medium-sized irrigation project that spans the Taliperu River, a significant tributary of the Godavari in the area, will be updated using contemporary technology. The Telangana Irrigation and CAD Department, part of the National Hydrology Project, has planned to deploy SCADA and put sensors at the reservoir's sluice gates as part of an effort to upgrade the project. The department & the executing agency have previously reached an agreement for this purpose. In a week, the SCADA operations and sensor installation would start. Additionally, power generators will be placed at the reservoir in order to provide a continuous power source for opening the gates during the monsoon or anytime water discharge is necessary.
+May 2023: The Human-Machine Interface (HMI) and SCADA software are at the heart of contemporary manufacturing operations, and practically all manufacturers use them in some capacity. ABI Research, a leading provider of global technology information, has released a new competitive rating that offers a thorough, unbiased analysis of the 14 SCADA/HMI software providers' products. For this research, a total of 12 criteria were identified and divided into clusters for innovation and implementation.
+October 2020: Emerson Electric purchased Progea Group (Italy) in order to expand its range of embedded software and controls by incorporating Progea's analytics, IIoT, and industrial visualisation capabilities. 
+August 2020: Schneider Electric created the subsequent EcoStruxure Power. IoT-enabled platform technology optimises, streamlines, and digitises electricity distribution networks to make them more intelligent, quick, and safe.
+SCADA Market Segmentation:
+SCADA Deployment Outlook (USD Billion, 2018-2030)
+
+
+On-Cloud
+
+
+On-Premise
+
+
+SCADA Component Outlook (USD Billion, 2018-2030)
+
+
+Software
+
+
+Hardware
+
+
+Remote Terminal Unit 31
+
+
+Human Machine Interface
+
+
+Industrial Control Systems
+
+
+Communication Systems
+
+
+
+
+SCADA End-Users Outlook (USD Billion, 2018-2030)
+
+
+Power and Energy
+
+
+Telecommunication
+
+
+Pharmaceutical
+
+
+Beverage and Food
+
+
+Manufacturing
+
+
+Chemical
+
+
+SCADA Regional Outlook (USD Billion, 2018-2030)
+
+
+North America
+
+
+US
+
+
+Canada
+
+
+
+
+Europe
+
+
+Germany
+
+
+France
+
+
+UK
+
+
+Italy
+
+
+Spain
+
+
+Rest of Europe
+
+
+
+
+Asia-Pacific
+
+
+China 
+
+
+Japan 
+
+
+India 
+
+
+Australia 
+
+
+South Korea
+
+
+Australia
+
+
+Rest of Asia-Pacific
+
+
+
+
+Rest of the World
+
+
+Middle East
+
+
+Africa
+
+
+Latin America
+
+
+
+
+SCADA Market Size was valued at USD 8.8 billion in 2021. The SCADA market industry is projected to grow from USD 9.4 billion in 2022 to USD 15.03 billion by 2030, exhibiting a compound annual growth rate (CAGR) of 7.00% during the forecast period (2022 - 2030). Smart buildings have increased dramatically, which is thought to be a major market driver for the expansion of the market. Growing urbanization in developing economies has caused this. A beneficial effect on the market is also caused by the rising use of smart devices and the expanding number of internet users.Source: Secondary Research, Primary Research, MRFR Database, and Analyst Review
+Manufacturing operations have changed as a result of the Internet of Things (IoT) and artificial intelligence (AI). Industrial loT is the term for the use of loT in manufacturing industries (loT). By utilising SCADA systems to connect a vast network of intelligent devices, the Internet of Things (IoT) is changing manufacturing facilities. A fully digital plant is created as a result. In order to monitor and control their applications and processes, achieve faster response times, and more accurately predict machine failure, industries can benefit from SCADA systems enabled with loT and Al technologies. This lowers operational costs and boosts productivity. Thus, the combination of loT and Al-based SCADA platforms facilitates data transmission and analysis for streamlined plant operations. Furthermore, because loT technology can detect possible issues and stop them from arising, it also contributes to a reduction in downtime. Additionally, loT speeds up and improves maintenance. With the use of this technology, managers can carefully plan out maintenance and maintain systems operational while all personnel are working. LoT can improve equipment longevity, lessen environmental risks, and promote plant safety. Machine learning (ML), a branch of artificial intelligence (AI), provides powerful tools for performing predictive maintenance. Thus, this factor is driving the market CAGR.
+Furthermore, oil and gas, pharmaceuticals, and water and wastewater treatment are just a few of the industries that use wireless sensor networks (WSN). The majority of oil and gas facilities are situated in harsh environments in distant locations. With the aid of sensors placed in a WSN, a SCADA system in an oil and gas plant monitors, manages, and controls tanks, compressors, generators, and separators. Implementing a sensor network and communication system is more affordable when a WSN is used. Additionally, they assist in resolving the issues with wired industrial networks because of their flexibility and ease of deployment. Due to the extra hardware requirements, such as cables, networking equipment, routers, and network adapters, wired technology is more expensive than its wireless version. As a result, the expanding WSN R&D and active use in SCADA systems would broaden the applications for SCADA. Additionally, the regular software updates for SCADA-adopted wireless sensor networks enable them to be compatible with the current automated systems in many different industries.
+However, massive development in big data and analytics has boosted the effectiveness of SCADA systems, opening up a wide range of industry potential. Analytical software solutions assist businesses in reducing errors, enhancing decision-making, and locating the source of issues. As a result, more sectors have started using these technologies to create decision-making processes. Analytics tools are now being used by automation suppliers in SCADA and advanced process control (APC). Thus, it is anticipated that this aspect will accelerate SCADA market revenue globally.
+The SCADA Market segmentation, based on deployment is divided into On-Cloud and On-Premise. The on-cloud segment dominated the SCADA market revenue in 2021 and is projected to be the faster-growing segment during the forecast period, 2022-2030 because cloud-based SCADA solutions are becoming more prevalent in industrial settings. Manufacturing and processing facilities are implementing cloud-based SCADA solutions in order to take advantage of the automation and high monitoring & control efficiency that the cloud SCADA provides.
+The SCADA Market segmentation has been segmented by component into Software and Hardware (Remote Terminal Unit 31, Human Machine Interface, Industrial Control Systems, Communication Systems). The software segment dominated the market growth in 2021 and is projected to be the faster-growing segment during the forecast period, 2022-2030. The fundamental purpose of the supervisory control and data acquisition (SCADA) system is data collection. The computer programme known as "software" aids in keeping track of manufacturing and plant operations. 
+The SCADA Market data has been segmented by end-users into Power and Energy, Telecommunication, Pharmaceutical, Beverage and Food, Manufacturing and Chemical. The beverage and food segment dominated the market in 2021 and is projected to be the faster-growing segment during the forecast period, 2022-2030. The supervisory control and data acquisition (SCADA) system is used in the food and beverage industry for a number of purposes, including visualizing production, upholding quality standards, generating reporting, and packaging. Greater alarming capabilities, increased integration, traceability, and predictive and preventative maintenance reduce product waste while enhancing food safety and quality.
+By region, the study provides the market insights into North America, Europe, Asia-Pacific, and the Rest of the World. The Asia Pacific SCADA market accounted for USD 3.7 billion in 2021 and is expected to exhibit a 42.10% CAGR during the study period to be propelled by the rising exploration of new renewable energy resources in the near future, the quickening development of industrial infrastructure that supports the integration of process automation, the rising demand for process automation in the oil and gas industry, and the improved efficiency in wastewater management. 
+Further, the major countries studied in the market report are: The U.S., Canada, Germany, France, the UK, Italy, Spain, China, Japan, India, Australia, South Korea, and Brazil.
+North America SCADA market accounts for the fastest growing market share because more industries, including the oil and gas industry and the electrical power industry, are requiring process automation systems. The market is also expected to grow quickly in the near future as a result of the growing financial and technological investments in reliable and sophisticated power management. Moreover, US SCADA market held the largest market share, and the Canada SCADA market was the fastest-growing market in this region
+Europe SCADA market is expected to grow at a substantial CAGR from 2022 to 2030 due to an increase in investments made to create smart grid initiatives. Increased manufacturing activity has also created attractive opportunities for SCADA system deployment. Government-sponsored programmes to assist the development of smart city projects will complement local business trends. Further, the UK SCADA market held the largest market share, and the Germany SCADA market was the fastest-growing market in the region.
+Major market players are spending a lot on R&D to increase their product lines, which will help the SCADA industry grow even more. Market participants are also taking various strategic initiatives to grow their worldwide footprint, including new product launches, contractual agreements, mergers and acquisitions, increased investments, market developments and collaboration with other organizations. Competitors in the industry must offer cost-effective items to expand and survive in an increasingly competitive and rising market industry.
+One of the primary business strategies manufacturers adopt in the global SCADA industry to benefit clients and expand the sector is manufacturing locally to reduce operating costs. In recent years, SCADA industry has provided medicine with some of the most significant benefits. The SCADA market major player such as Schneider Electric SE, Mitsubishi Electric Corporation, Omron Corporation, Rockwell Automation, Siemens AG, Checkpoint Software Technologies, Radiflow, General Electric, Yokogawa Electric Corporation, Emerson Electric Corporation and Honeywell Automation.
+European multinational Schneider Electric SE is a leader in digital automation and energy management. Utilizing a combination of energy technologies, real-time automation, software, and services, it addresses homes, buildings, data centers, infrastructure, and industries. In September 2022, to accelerate digital transformation for industrial businesses managing complex operational processes, Schneider Electric announced the full acquisition of AVEVA. The company's hybrid cloud-based subscription model and software growth strategy are both intended to be accelerated by this transaction. 
+Also, an American industrial automation company Rockwell Automation, Inc.'s brands include Allen-Bradley, FactoryTalk software, and LifecycleIQ Services. Rockwell Automation is based in Milwaukee, Wisconsin, and employs about 26,000 people. It serves clients in more than 100 nations. In May 2022, Rockwell Automation announced the release of V13 of FactoryTalk View Site, a new version of the programme with new capabilities. The recently released solution provides more efficient HMI animation driving for automatic diagnostics through FactoryTalk ViewPoints web points, allowing for deeper interaction with logic controller.
+Schneider Electric SE
+Mitsubishi Electric Corporation
+Omron Corporation
+Rockwell Automation
+Siemens AG
+Checkpoint Software Technologies
+Radiflow
+General Electric
+Yokogawa Electric Corporation
+Emerson Electric Corporation
+Honeywell Automation
+July 2023: Next month, a Supervisory Control and Data Acquisition centre will be established in Chandigarh. Modern control centre will oversee SCADA systems for water supply, public bike sharing, lamps, solid waste management, parking, street sweeping, and sewage treatment, among other crucial services. The integration of these systems into a single SCADA centre gives municipal operators and administrators superior real-time visibility, in-depth situational awareness, and improved control over the city's infrastructure. This all-encompassing strategy aims to make it easier to coordinate effectively amongst departments, enhance maintenance, cut costs, and make better use of resources while also simplifying unified management and monitoring of critical services. The Integrated Command & Control Centre will be integrated with all SCADA systems deployed at the facility.
+June 2023: The Taliperu Project, a medium-sized irrigation project that spans the Taliperu River, a significant tributary of the Godavari in the area, will be updated using contemporary technology. The Telangana Irrigation and CAD Department, part of the National Hydrology Project, has planned to deploy SCADA and put sensors at the reservoir's sluice gates as part of an effort to upgrade the project. The department & the executing agency have previously reached an agreement for this purpose. In a week, the SCADA operations and sensor installation would start. Additionally, power generators will be placed at the reservoir in order to provide a continuous power source for opening the gates during the monsoon or anytime water discharge is necessary.
+May 2023: The Human-Machine Interface (HMI) and SCADA software are at the heart of contemporary manufacturing operations, and practically all manufacturers use them in some capacity. ABI Research, a leading provider of global technology information, has released a new competitive rating that offers a thorough, unbiased analysis of the 14 SCADA/HMI software providers' products. For this research, a total of 12 criteria were identified and divided into clusters for innovation and implementation.
+October 2020: Emerson Electric purchased Progea Group (Italy) in order to expand its range of embedded software and controls by incorporating Progea's analytics, IIoT, and industrial visualisation capabilities. 
+August 2020: Schneider Electric created the subsequent EcoStruxure Power. IoT-enabled platform technology optimises, streamlines, and digitises electricity distribution networks to make them more intelligent, quick, and safe.
+On-Cloud
+On-Premise
+Software
+Hardware
+Remote Terminal Unit 31
+Human Machine Interface
+Industrial Control Systems
+Communication Systems
+Power and Energy
+Telecommunication
+Pharmaceutical
+Beverage and Food
+Manufacturing
+Chemical
+North America
+US
+Canada
+Europe
+Germany
+France
+UK
+Italy
+Spain
+Rest of Europe
+Asia-Pacific
+China 
+Japan 
+India 
+Australia 
+South Korea
+Australia
+Rest of Asia-Pacific
+Rest of the World
+Middle East
+Africa
+Latin America
+
+The market size was expected to be USD 8.8 billion in 2021.
+
+The market size was expected to be USD 8.8 billion in 2021.
+
+The market is expected to register a CAGR of ~7.00% over the next ten years.
+
+The market is expected to register a CAGR of ~7.00% over the next ten years.
+
+Asia Pacific held the largest market share in the market.
+
+Asia Pacific held the largest market share in the market.
+
+Schneider Electric SE, Mitsubishi Electric Corporation, Omron Corporation, Rockwell Automation, Siemens AG, Checkpoint Software Technologies, Radiflow are the key players in the market.
+
+Schneider Electric SE, Mitsubishi Electric Corporation, Omron Corporation, Rockwell Automation, Siemens AG, Checkpoint Software Technologies, Radiflow are the key players in the market.
+
+The software category led the segment in the market.
+
+The software category led the segment in the market.
+
+The beverage and food category had the largest market share in the market.
+
+The beverage and food category had the largest market share in the market.
+Key Questions Answered
+Why Choose Market Research Future?
+
+                  Industrial Control Systems (ICS) Market Research Report- Forecast 2030
+                
+
+                  Industrial Control Systems (Energy & Power) Market Research Report - Global Forecast to 2032
+                
+
+                  Oil & Gas SCADA Market Research Report - Global Forecast till 2030
+                
+Global SCADA Market is predicted to reach USD 15.03 billion at a CAGR of 7% during the forecast p...
+Research Analyst Level II
+              With a technical background in information technology & semiconductors, shubham has 4.5+ years of experience in market research and analytics with the tasks of data mining, analysis, and project execution. he is the poc for our clients, for their consulting projects running under the ict/semiconductor domain. shubham holds a bachelor’s in information and technology and a master of business administration (mba). shubham has executed over 150 research projects for our clients under the brand name market research future in the last 2 years. his core skill is building the research respondent relation for gathering the primary information from industry and market estimation for niche markets. he is having expertise in conducting secondary & primary research, market estimations, market projections, competitive analysis, analysing current market trends and market dynamics, deep-dive analysis on market scenarios, consumer behaviour, technological impact analysis, consulting, analytics, etc. he has worked on fortune 500 companies' syndicate and consulting projects along with several government projects. he has worked on the projects of top tech brands such as ibm, google, microsoft, aws, meta, oracle, cisco systems, samsung, accenture, vmware, schneider electric, dell, hp, ericsson, and so many others. he has worked on metaverse, web 3.0, zero-trust security, cyber-security, blockchain, quantum computing, robotics, 5g technology, high-performance computing, data centers, ai, automation, it equipment, sensors, semiconductors, consumer electronics and so many tech domain projects.
+© 2023 Market Research Future®(Part of  WantStats Research And Media Pvt. Ltd.)
+
+          We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.
+           ×
+Privacy
+
